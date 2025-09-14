@@ -3,6 +3,9 @@
 Submitted for the 2025 HopHacks hackathon.
 By An Jie, Emoo, Iso & Juan Jose
 
+>[!Info]
+>This code base is more of a demonstration of the code we wrote for the hackathon, with its components hosted Supabase (flow-database) and Render (flow-agent), so there's no main entrypoint to our project here.
+
 ## What it does
 
 MediFlow orchestrates multiple AI agents to analyze and route lab results intelligently. It acts as the central nervous system connecting laboratories, physicians, and patients.
