@@ -1,0 +1,1 @@
+This directory contains the edge functions written in Supabase to connect our laboratory frontend and agent.
