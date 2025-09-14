@@ -1,0 +1,1 @@
+Our laboratory management system front-end was vibe coded using and hosted on Lovable.
