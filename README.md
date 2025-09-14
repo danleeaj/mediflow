@@ -1,5 +1,8 @@
 # MediFlow
 
+Submitted for the 2025 HopHacks hackathon.
+By An Jie, Emoo, Iso & Juan Jose
+
 ## What it does
 
 MediFlow orchestrates multiple AI agents to analyze and route lab results intelligently. It acts as the central nervous system connecting laboratories, physicians, and patients.
